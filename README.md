@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- <a href="https://wakatime.com/@37c1065a-a67e-45d9-8550-40249c690cb8"><img style="margin-left:31.5cm" src="https://wakatime.com/badge/user/37c1065a-a67e-45d9-8550-40249c690cb8.svg" alt="Total time coded since Jul 9 2021" /></a> -->
-<img align="right" vertical-align="middle" width="50%" src="/github-metrics.svg" alt="Metrics">
-<img align="left" vertical-align="middle" width="45%" src="https://github-readme-stats.vercel.app/api?username=elSolitarioJorge&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hans's github stats" /></a> 
+<br>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aetherance&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ---->
 
-<img align="left" vertical-align="middle" width="41%" src="/dogs.gif">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aetherance&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- | <a href="https://github.com/elSolitarioJorge/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elSolitarioJorge&layout=compact&theme=buefy&hide_border=true" />
-</a> | -->
+
+[![Static Badge](https://img.shields.io/badge/LeetCode-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)](https://leetcode.cn/u/aetherance)&emsp;
+[![Static Badge](https://img.shields.io/badge/CSDN.NET-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%234A708B)](https://blog.csdn.net/weixin_74355874)&emsp;
+[![Static Badge](https://img.shields.io/badge/THEBLOG-INK-brightgreen?style=for-the-badge&labelColor=%23607B8B&color=%238DB6CD)](https://aetherance.github.io/)
+
+
+<details>
