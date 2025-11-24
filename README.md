@@ -3,5 +3,10 @@
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=elSolitarioJorge&show_icons=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elSolitarioJorge&theme=material-palenight&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elSolitarioJorge&theme=material-palenight&layout=compact&langs_count=6)
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=elSolitarioJorge&cn=true&theme=material-palenight)![CSDN 数据](https://stats.justsong.cn/api/csdn?id=LiuYaoheng&theme=material-palenight)
+
+<div align="start">
+    <a href="https://mobile.xupt.edu.cn/index.html"><img src="https://img.shields.io/badge/xiyou3g-mobile-green" /></a>&emsp;
+    <a href="https://leetcode.cn/u/elsolitariojorge/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
+    <a href="https://blog.csdn.net/LiuYaoheng/"><img src="https://img.shields.io/badge/blog-CSDN-c32136" /></a>&emsp;
+</div>
