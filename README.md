@@ -5,6 +5,7 @@
 
 <div align="start">
     <a href="https://mobile.xupt.edu.cn/index.html"><img src="https://img.shields.io/badge/xiyou3g-mobile-green" /></a>&emsp;
-    <a href="https://leetcode.cn/u/elsolitariojorge/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
+    <a href="https://leetcode.cn/u/yohen/"><img src="https://img.shields.io/badge/LeetCode-力扣-yellow" /></a>&emsp;
     <a href="https://blog.csdn.net/LiuYaoheng/"><img src="https://img.shields.io/badge/blog-CSDN-c32136" /></a>&emsp;
+    <a href="https://juejin.cn/user/1197828179492985"><img src="https://img.shields.io/badge/Juejin-掘金-blue" /></a>&emsp;
 </div>
